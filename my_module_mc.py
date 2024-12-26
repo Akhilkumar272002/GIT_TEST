@@ -1,3 +1,3 @@
 # my_module.py
 def greet(name):
-    return f"Good morning, {name}!"
+    return f"Hello there, {name}!"
